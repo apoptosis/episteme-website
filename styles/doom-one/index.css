@@ -14,8 +14,8 @@ main * {
 
 @media screen and (min-device-width: 500px) {
     main {
-        padding-left: 10vw !important;
-        padding-right: 10vw !important;
+        padding-left: 15vw !important;
+        padding-right: 15vw !important;
     }
 }
 
