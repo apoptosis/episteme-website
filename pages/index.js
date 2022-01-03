@@ -26,7 +26,7 @@ export default function Home() {
           You can create your own knowledge-base, browse community knowledge-bases, or collaborate on them together.
         </p>
 
-        <a href="{ENV.epi_repo}"><img src='/demo.gif'/></a>
+        <a href={ENV.epi_repo}><img src='/demo.gif'/></a>
       </main>
 
       <footer>

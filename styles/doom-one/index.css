@@ -1,0 +1,13 @@
+body{
+    background-color: #282c34;
+    color: #bbc2cf;
+    font-family: "Source Code Pro" !important;
+}
+
+main * a{
+    color: #51afef !important;
+}
+
+footer {
+    color: #bbc2cf !important;
+}
