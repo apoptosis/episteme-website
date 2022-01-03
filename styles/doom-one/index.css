@@ -1,11 +1,22 @@
-body{
+body {
     background-color: #282c34;
     color: #bbc2cf;
-    font-family: "Source Code Pro" !important;
+    font-family: 'Source Code Pro' !important;
 }
 
-main * a{
+main * a {
     color: #51afef !important;
+}
+
+main * {
+    text-align: justify !important;
+}
+
+@media screen and (min-device-width: 500px) {
+    main {
+        padding-left: 10vw !important;
+        padding-right: 10vw !important;
+    }
 }
 
 footer {
